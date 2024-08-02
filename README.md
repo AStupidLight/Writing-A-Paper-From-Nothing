@@ -45,3 +45,20 @@
 
 主题阅读：高多光谱融合
 
+## 7.28
+
+高多光谱融合——多流
+
+## 8.1
+
+高光谱分类综述——A Comprehensive Survey for Hyperspectral Image Classification: The Evolution from Conventional to Transformers
+
+阅读：spectral CNN
+
+AI基础知识——RNN
+
+# 8.2
+
+继续阅读spectral CNN
+
+精读：Convolutional Neural Networks for Multimodal Remote Sensing Data Classification

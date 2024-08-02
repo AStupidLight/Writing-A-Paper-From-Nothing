@@ -36,6 +36,12 @@ Zotero的基础使用在这之前我已经简单学习过，不在此记录。
 
 在web of science中找到你想要的那个文献。拉到下面选择cited preferences。右边view as set of results。之后就可以按照普通的导出方式选择export，所有结果，导出为ris文件。最后在zotero当中导入。
 
+
+
+使用zotero reference插件
+
+[Releases · MuiseDestiny/zotero-reference (github.com)](https://github.com/MuiseDestiny/zotero-reference/releases)
+
 ## 搜索源添加sci-hub
 
 首选项——高级——设置编辑器——extensions.zotero.findPDFs.resolvers
